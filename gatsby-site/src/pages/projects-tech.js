@@ -5,6 +5,10 @@ import Layout from '../components/layout'
 
 const ProjectsTech = () => (
   <Layout>
+
+  <h1>Tech</h1>
+    <p>HTML5, CSS3, JavaScript, Node, Express, React, Ruby, Ruby on Rails, Git, Adobe Suite, Capture One, Sketch</p>
+
     <h1>Projects</h1>
       <h3><a href="https://pc-wizard.herokuapp.com" target="_blank">PC Wizard</a></h3>
         <p>PC Wizard helps people build computers. Users can view information on different types of computer components, as well as information regarding specific computer parts (series, price, RAM slots, etc). <strong>Built with:</strong> Rails, Devise, and Bulma. <a href="https://github.com/Tsardines/pc-wizard" target="_blank">Github</a></p>
@@ -18,8 +22,7 @@ const ProjectsTech = () => (
       <h3><a href="https://afternoon-citadel-73979.herokuapp.com" target="_blank">Marvel Character Finder</a></h3>
       <p>Allows users to create accounts, view information on over a thousand characters, and add characters to their favorites list. <strong>Built with:</strong> Marvel API, React, Express, Node, PostgreSQL, and Bootstrap. <a href="https://github.com/Tsardines/MarvelApp" target="_blank">Github</a></p>
 
-    <h1>Tech</h1>
-      <p>HTML5, CSS3, JavaScript, Node, Express, React, Ruby, Ruby on Rails, Git, Adobe Suite, Capture One, Sketch</p>
+
 
     <Link to="/">Home</Link>
     <Link to ="/contact/">Contact</Link>
