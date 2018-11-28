@@ -10,17 +10,17 @@ const ProjectsTech = () => (
     <p>HTML5, CSS3, JavaScript, Node, Express, React, Ruby, Ruby on Rails, Git, Adobe Suite, Capture One, Sketch</p>
 
     <h1>Projects</h1>
-      <h3><a href="https://pc-wizard.herokuapp.com" target="_blank">PC Wizard</a></h3>
-        <p>PC Wizard helps people build computers. Users can view information on different types of computer components, as well as information regarding specific computer parts (series, price, RAM slots, etc). <strong>Built with:</strong> Rails, Devise, and Bulma. <a href="https://github.com/Tsardines/pc-wizard" target="_blank">Github</a></p>
+      <h3><a href="https://pc-wizard.herokuapp.com" target="_blank" rel="noopener noreferrer">PC Wizard</a></h3>
+        <p>PC Wizard helps people build computers. Users can view information on different types of computer components, as well as information regarding specific computer parts (series, price, RAM slots, etc). <strong>Built with:</strong> Rails, Devise, and Bulma. <a href="https://github.com/Tsardines/pc-wizard" target="_blank" rel="noopener noreferrer">Github</a></p>
 
-      <h3><a href="https://spark-lines.herokuapp.com/" target="_blank">Spark Lines</a></h3>
-      <p>Spark Lines is a single-page news aggregator. Users can also submit their own articles. <strong>Built with:</strong> Node, Express, PostgreSQL, and NewsAPI. <a href="https://github.com/Tsardines/news-app" target="_blank">Github</a></p>
+      <h3><a href="https://spark-lines.herokuapp.com/" target="_blank" rel="noopener noreferrer">Spark Lines</a></h3>
+      <p>Spark Lines is a single-page news aggregator. Users can also submit their own articles. <strong>Built with:</strong> Node, Express, PostgreSQL, and NewsAPI. <a href="https://github.com/Tsardines/news-app" target="_blank" rel="noopener noreferrer">Github</a></p>
 
-      <h3><a href="https://terminal-hacker.netlify.com/" target="_blank">Terminal Hacker</a></h3>
-      <p>This is a recreation of the terminal hacking mini game from the Fallout series. <strong>Built with:</strong> HTML, CSS, and JavaScript. <a href="https://github.com/Tsardines/fallout-terminal" target="_blank">Github</a></p>
+      <h3><a href="https://terminal-hacker.netlify.com/" target="_blank" rel="noopener noreferrer">Terminal Hacker</a></h3>
+      <p>This is a recreation of the terminal hacking mini game from the Fallout series. <strong>Built with:</strong> HTML, CSS, and JavaScript. <a href="https://github.com/Tsardines/fallout-terminal" target="_blank" rel="noopener noreferrer">Github</a></p>
 
-      <h3><a href="https://afternoon-citadel-73979.herokuapp.com" target="_blank">Marvel Character Finder</a></h3>
-      <p>Allows users to create accounts, view information on over a thousand characters, and add characters to their favorites list. <strong>Built with:</strong> Marvel API, React, Express, Node, PostgreSQL, and Bootstrap. <a href="https://github.com/Tsardines/MarvelApp" target="_blank">Github</a></p>
+      <h3><a href="https://afternoon-citadel-73979.herokuapp.com" target="_blank" rel="noopener noreferrer">Marvel Character Finder</a></h3>
+      <p>Allows users to create accounts, view information on over a thousand characters, and add characters to their favorites list. <strong>Built with:</strong> Marvel API, React, Express, Node, PostgreSQL, and Bootstrap. <a href="https://github.com/Tsardines/MarvelApp" target="_blank" rel="noopener noreferrer">Github</a></p>
 
 
 

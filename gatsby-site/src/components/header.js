@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 const Header = ({ siteTitle }) => (
   <div style={{
-      background: 'rebeccapurple',
+      background: 'deepskyblue',
       marginBottom: '1.45rem',
     }}
   >
