@@ -1,20 +1,13 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import TypeIt from 'typeit'
 
 import Layout from '../components/layout'
 
-new TypeIt('#example', {
-  strings: 'simple string this is',
-  speed: 50,
-  autoStart: false
-});
-
 const IndexPage = () => (
+
   <Layout>
     <h1>Hello!</h1>
-    <p id='#example'></p>
-    <p>I'm a Frontend Developer based in NY and NJ.</p>
+    <p id='#example'>I'm a Frontend Developer based in NY and NJ.</p>
     <p>I'm also a skilled tennis player and an avid  <a href="https://500px.com/hjs342" target="_blank" rel="noopener noreferrer">street photographer.</a></p>
 
     <h3>Education</h3>
