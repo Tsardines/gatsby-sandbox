@@ -27,7 +27,7 @@ const IndexPage = () => (
       </tr>
 
       <tr>
-        <td><strong><a href="https://www.ucc.edu/" target="_blank" rel="noopener noreferrer">General Assembly</a></strong></td>
+        <td><strong><a href="https://www.ucc.edu/" target="_blank" rel="noopener noreferrer">Union County College</a></strong></td>
         <td>A.A. in Liberal Arts</td>
         <td>May 2013</td>
       </tr>
