@@ -48,8 +48,7 @@ const IndexPage = () => (
         <td>Jan 2011 - May 2013</td>
       </tr>
     </table>
-
-  
+ 
     <Link to="/projects-tech/">Projects and Tech</Link>
     <Link to ="/contact/">Contact</Link>
   </Layout>
