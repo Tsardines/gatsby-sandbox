@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <h1>Hello!</h1>
     <p id='#example'>I'm a web developer based in NY and NJ.</p>
-    <p>I'm also a skilled tennis player and an avid  <a href="https://haleysulcerphoto.netlify.com" target="_blank" rel="noopener noreferrer">street photographer.</a></p>
+    <p>I'm also into <a href="https://haleysulcerphoto.netlify.com" target="_blank" rel="noopener noreferrer">photography.</a></p>
 
     <br />
 
@@ -17,15 +17,10 @@ const IndexPage = () => (
 
     <table className="work-table">
 
-      {/* <tr>Junior Web Developer</tr>
-      <tr><a href="https://kobrekim.com/">Kobre & Kim</a></tr>
-      <tr>New York, NY</tr>
-      <tr>January 2019 - Present</tr> */}
       <tr>
         <td>Junior Developer</td>
-        <td><a href="https://kobrekim.com/">Kobre & Kim</a></td>
-        <td>New York, NY</td>
-        <td>January 2019 - Present</td>
+        <td><a href="https://kobrekim.com/">Kobre & Kim - New York, NY</a></td>
+        <td>Jan 2019 - Present</td>
       </tr>
 
     </table>
@@ -38,19 +33,19 @@ const IndexPage = () => (
       <tr>
         <td><strong><a href="https://generalassemb.ly/" target="_blank" rel="noopener noreferrer">General Assembly</a></strong></td>
         <td>Web Development Immersive</td>
-        <td>May 2018</td>
+        <td>Feb 2018 - May 2018</td>
       </tr>
 
       <tr>
         <td><strong><a href="https://tcnj.pages.tcnj.edu/" target="_blank" rel="noopener noreferrer">The College of New Jersey</a></strong></td>
         <td>B.A. in Public & Mass Communication</td>
-        <td>May 2015</td>
+        <td>Aug 2013 - May 2015</td>
       </tr>
 
       <tr>
         <td><strong><a href="https://www.ucc.edu/" target="_blank" rel="noopener noreferrer">Union County College</a></strong></td>
         <td>A.A. in Liberal Arts</td>
-        <td>May 2013</td>
+        <td>Jan 2011 - May 2013</td>
       </tr>
     </table>
 

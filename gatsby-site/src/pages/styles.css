@@ -1,3 +1,7 @@
 td {
     border: none;
 }
+
+.work-table, .edu-table {
+    table-layout: fixed;
+}
